@@ -1,0 +1,19 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "a qrcode libray",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hapjs/qrcode.git"
+  },
+  "author": "hapjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hapjs/qrcode/issues"
+  },
+  "homepage": "https://github.com/hapjs/qrcode#readme"
+}
